@@ -612,7 +612,6 @@ C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\build-gz\85liZm1f.gz
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\build-gz\P2HXQbzi.gz
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\build-gz\YrjMRvgw.gz
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\build-gz\FRjL32Qn.gz
-C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\scopedcss\bundle\CA3A.styles.css
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\scopedcss\projectbundle\CA3A.bundle.scp.css
@@ -625,8 +624,6 @@ C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\ref\CA3A.dll
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\CA3A.pdb
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\service-worker-assets.js
-C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
-C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
 C:\Users\Wesley\source\repos\CA3A\CA3A\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
 C:\Users\Wesley\source\repos\CA3A\CA3A\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\build-gz\glI0KEAk.gz
@@ -669,3 +666,5 @@ C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\build-gz\y5zdbCnf.gz
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\build-gz\HfmaXo8U.gz
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\build-gz\XV0+tlqy.gz
 C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\build-gz\Hg1RCwb5.gz
+C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\RazorDeclaration\Pages\Statistics.razor.g.cs
+C:\Users\Wesley\source\repos\CA3A\CA3A\obj\Debug\net5.0\Razor\Pages\Statistics.razor.g.cs
